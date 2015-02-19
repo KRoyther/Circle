@@ -1,0 +1,54 @@
+{
+    "appKeys": {
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "klevin92@gmail.com",
+    "longName": "Circle",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bluetooth-disabled.png",
+                "name": "DISCONNECTED",
+                "type": "png"
+            },
+            {
+                "file": "images/weather_bg.png",
+                "name": "WEATHER_BG",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9:]",
+                "file": "fonts/Roboto-Regular.ttf",
+                "name": "ROBOTO_R_40",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Roboto-Regular.ttf",
+                "name": "ROBOTO_R_20",
+                "type": "font"
+            },
+            {
+                "file": "images/PEBBLE_BG.png",
+                "name": "PEBBLE_BG",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9:]",
+                "file": "fonts/Roboto-Light.ttf",
+                "name": "ROBOTO_L_40",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Circle",
+    "uuid": "5bdab2e5-d129-4b18-8b11-bac028ed6965",
+    "versionCode": 1,
+    "versionLabel": "0.5",
+    "watchapp": {
+        "watchface": true
+    }
+}
