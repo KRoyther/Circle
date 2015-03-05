@@ -3,13 +3,74 @@
         "KEY_TEMPERATURE": 0
     },
     "capabilities": [
-        "location"
+        ""
     ],
     "companyName": "klevin92@gmail.com",
-    "longName": "Circle",
+    "longName": "Circles",
     "projectType": "native",
     "resources": {
         "media": [
+            {
+                "file": "images/Icon.png",
+                "menuIcon": true,
+                "name": "ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/battery-charging-3-512.png",
+                "name": "CHARGING",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_100.png",
+                "name": "BATT_100",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_90.png",
+                "name": "BATT_90",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_80.png",
+                "name": "BATT_80",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_70.png",
+                "name": "BATT_70",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_60.png",
+                "name": "BATT_60",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_50.png",
+                "name": "BATT_50",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_40.png",
+                "name": "BATT_40",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_30.png",
+                "name": "BATT_30",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_20.png",
+                "name": "BATT_20",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_10.png",
+                "name": "BATT_10",
+                "type": "png"
+            },
             {
                 "file": "images/bluetooth-disabled.png",
                 "name": "DISCONNECTED",
@@ -44,10 +105,11 @@
             }
         ]
     },
-    "shortName": "Circle",
+    "sdkVersion": "2",
+    "shortName": "Circles",
     "uuid": "5bdab2e5-d129-4b18-8b11-bac028ed6965",
     "versionCode": 1,
-    "versionLabel": "0.5",
+    "versionLabel": "0.7",
     "watchapp": {
         "watchface": true
     }
